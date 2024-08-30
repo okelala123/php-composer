@@ -1,0 +1,21 @@
+{
+    "name": "api_vifp/test_docmument",
+    "description": "okela123",
+    "type": "library",
+    "license": "MIT",
+    
+    "autoload": {
+        "psr-4": {
+            "App\\Services\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "okelala123",
+            "email": "daicmngia@gmail.com"
+        }
+    ],
+    "require": {
+        "namshi/cuzzle": "^2.0"
+    }
+}
