@@ -32,6 +32,10 @@ class ComposerStaticInit00837dd973d2daff80af07bbcef87083
         array (
             'Namshi\\Cuzzle\\' => 14,
         ),
+        'M' => 
+        array (
+            'Monolog\\' => 8,
+        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
@@ -68,6 +72,10 @@ class ComposerStaticInit00837dd973d2daff80af07bbcef87083
         'Namshi\\Cuzzle\\' => 
         array (
             0 => __DIR__ . '/..' . '/namshi/cuzzle/src',
+        ),
+        'Monolog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (

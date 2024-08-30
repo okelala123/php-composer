@@ -14,8 +14,11 @@
             "name": "okelala123",
             "email": "daicmngia@gmail.com"
         }
+
     ],
     "require": {
-        "namshi/cuzzle": "^2.0"
+        "namshi/cuzzle": "^2.0",
+        "monolog/monolog": "2.1"
+        
     }
 }
